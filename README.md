@@ -9,7 +9,7 @@ Cualquier ayuda es bienvenida.
  
 Para proposito de estudio, se tiene que preparar en mariadb la base de datos”:
 comedor" con el user "comedor" y contraseña "1213".
- EL token se debe de preparar cada uno que quiera ayudar su token. 
+ EL token debe prepararse individual por cada compañero que quiera ayudar. 
  
 ######### 
 
