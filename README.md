@@ -7,7 +7,7 @@ Cualquier ayuda es bienvenida.
 
  ####################### 
  
-Para proposito de estudio, se tiene que preparar en mariadb la base de datos”:
+Para proposito de estudio y posterior puesta en produccion local, se tiene que preparar en mariadb la base de datos”:
 comedor" con el user "comedor" y contraseña "1213".
  EL token debe prepararse individual por cada compañero que quiera ayudar. 
  
@@ -15,13 +15,12 @@ comedor" con el user "comedor" y contraseña "1213".
 
 He cambiado el repositorio entero. 
 He añadido en main.py la función /borrar_alumno (la comprobé y funciona). 
-Sigo pensando que no consigo programar bien el comando /comedor para que realmente cumpla su función: 
+Sigo pensando que no consigo programar bien el comando /listado para que realmente cumpla su función: 
  - anotar asistencia de los alumnos al comedor, en el día especifico
  - que realmente consiga hacer la suma de los comensales musulmanes y no musulmanes, al final de la columna del día 
- - que el listado quepa bien, entero en la página A4 horizontal 
  
- Pero como ya me volví loco este finde con chatGPT los subo tal cual y ya le daré vueltas. 
- Espero que encuentra ayuda vuestra tambíen. 
+ Pero como ya me volví loco este finde con chatGPT, los subo tal cual, y ya le daré vueltas. 
+ Espero que encuentre ayuda vuestra tambíen. 
 
 ###############
 
